@@ -1,16 +1,12 @@
 
-# Environment variables and secrets
 .env
-
-# Generated data and model files
 *.pkl
 *.csv
-
-# Mage logs
 mage.log
-
-# Python cache
 __pycache__/
-
-# Local virtual environment
 .venv/
+.vscode/
+iris_project/.file_versions/
+iris_project/.ssh_tunnel/
+__pycache__/
+*.pyc
